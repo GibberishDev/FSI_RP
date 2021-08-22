@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "items/custom/diamond_axe/highlandaxe"
+		"layer0": "items/custom/netherite_axe/highlandaxe"
 	},
 	"display": {
 		"thirdperson_righthand": {

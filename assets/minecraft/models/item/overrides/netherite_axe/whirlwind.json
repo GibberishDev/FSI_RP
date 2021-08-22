@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "items/custom/diamond_axe/whirlwind"
+		"layer0": "items/custom/netherite_axe/whirlwind"
 	},
 	"display": {
 		"thirdperson_righthand": {
