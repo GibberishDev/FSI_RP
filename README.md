@@ -21,7 +21,7 @@ FSI survival server resource pack
     ║ + added Mohawk - Prismarine shard override<br>
     ║ + added Axolotl hat - Prismarine shard override<br>
     ║ + added Buckler shield(OF) - Shield override<br>
-    ╚ + added Green gauntlet of shielding(OF) - Shield override<br>
+    ╚ + added Green gauntlet of shielding(OF)(EM) - Shield override
   </details>
   <details>
     <summary>22/08/2021</summary>
@@ -32,6 +32,9 @@ FSI survival server resource pack
   </details>
   <details>
     <summary>23/08/2021</summary>
+    ║ + added Stormlander(MCD)(EM) - Netherite axe override<br>
+    ║ + added Great hammer(MCD) - Netherite axe override<br>
+    ║ + added Red Gauntlet of Shielding(OF)(EM) - Shield override<br>
     ╚ + added <a href="https://github.com/GibberishDev/FSI_RP/tree/master/ready%20to%20use%20files/pluginconfig">"plugin config"</a> (GIT) - directory for plugin files
   </details>
 </details>
@@ -48,6 +51,8 @@ FSI survival server resource pack
   | Netherite axe | CMD | 100003 | Firebrand(MCD) |
   | Netherite axe | CMD | 100004 | Highland axe(MCD) |
   | Netherite axe | CMD | 100005 | Whirlwind axe(MCD) |
+  | Netherite axe | CMD | 100006 | Great hammer(MCD) |
+  | Netherite axe | CMD | 100006 | Stormlander(MCD)(EM) |
   | - | - | - | - |
   | Netherite Sword | CMD | 100000 | Daggers(MCD) |
   | Netherite Sword | CMD | 100001 | Fangs of frost(MCD) |
@@ -59,14 +64,16 @@ FSI survival server resource pack
   | Prismarine shard | CMD | 100003 | Axolotl hat |
   | - | - | - | - |
   | Shield | CMD | 100000 | Buckler shield(OF) |
-  | Shield | CMD | 100001 | Green gauntlet of shielding(OF) |
+  | Shield | CMD | 100001 | Green gauntlet of shielding(OF)(EM) |
+  | Shield | CMD | 100002 | Red gauntlet of shielding(OF)(EM) |
 
 
   <details>
     <summary>Annottaions</summary>
     * MCD - item originates from Minecraft dungeons<br>
     * OF - Item requires OF to work<br>
-    * GIT - Change affects only github page
+    * GIT - Change affects only github page<br>
+    * EM - Optifine users will get a nice bonus in form of emissive textures
   </details>
 
 
