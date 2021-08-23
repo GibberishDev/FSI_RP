@@ -3,6 +3,7 @@
 FSI survival server resource pack
 * Current version - v1.0.9 - 22/08/2021
 * Author: GibberishDev AKA *CheeseshireCat*
+* Server ip and site: play.fsi.gg and <a href="http://fsi.gg">FSI</a>
 
 <details>
   <summary>Changelog:</summary>
