@@ -30,6 +30,10 @@ FSI survival server resource pack
     ║ + added Moon daggers(MCD) - Netherite sword override<br>
     ╚ ~ Project restructure
   </details>
+  <details>
+    <summary>23/08/2021</summary>
+    ╚ + added <a href="https://github.com/GibberishDev/FSI_RP/tree/master/ready%20to%20use%20files/pluginconfig">"plugin config"</a> (GIT) - directory for plugin files
+  </details>
 </details>
 
   ## List of IDs:
@@ -62,6 +66,7 @@ FSI survival server resource pack
     <summary>Annottaions</summary>
     * MCD - item originates from Minecraft dungeons<br>
     * OF - Item requires OF to work<br>
+    * GIT - Change affects only github page
   </details>
 
 
@@ -83,5 +88,5 @@ FSI survival server resource pack
 
 ### GibberishDev last listened music on spotify:
 [![Spotify](https://novatorem-six-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/Gibberish)
-<br />
-<br />
+<br>
+<br>
