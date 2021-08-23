@@ -78,12 +78,10 @@ FSI survival server resource pack
   <br>
 
   <a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
-  <a href=[steamprofile]><img src=[steampicture] alt="Steam"></a>
+  <a href="https://steamcommunity.com/id/GibberishDev/"><img src="https://github.com/GibberishDev/resrrep/blob/main/steam.png" alt="steam"></a>
   <a href="https://discord.gg/bhAnEEXUfV"><img src="https://github.com/GibberishDev/resrrep/blob/main/discord.png" alt="Discord"></a>
 
 ### GibberishDev last listened music on spotify:
 [![Spotify](https://novatorem-six-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/Gibberish)
-
-
-[steamprofile] = https://steamcommunity.com/id/GibberishDev/
-[steampicture] = https://github.com/GibberishDev/resrrep/blob/main/steam.png
+<br />
+<br />
