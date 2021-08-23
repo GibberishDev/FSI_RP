@@ -85,5 +85,5 @@ FSI survival server resource pack
 [![Spotify](https://novatorem-six-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/Gibberish)
 
 
-[steamprofile] = "https://steamcommunity.com/id/GibberishDev/"
-[steampicture] = "https://github.com/GibberishDev/resrrep/blob/main/steam.png"
+[steamprofile] = https://steamcommunity.com/id/GibberishDev/
+[steampicture] = https://github.com/GibberishDev/resrrep/blob/main/steam.png
