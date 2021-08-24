@@ -37,6 +37,10 @@ FSI survival server resource pack
     ║ + added Red Gauntlet of Shielding(OF)(EM) - Shield override<br>
     ╚ + added <a href="https://github.com/GibberishDev/FSI_RP/tree/master/ready%20to%20use%20files/pluginconfig">"plugin config"</a> (GIT) - directory for plugin files
   </details>
+  <details>
+    <summary>24/08/2021</summary>
+    ║ + added hammer of gravity(MCD)()
+  </details>
 </details>
 
   ## List of IDs:
@@ -52,7 +56,8 @@ FSI survival server resource pack
   | Netherite axe | CMD | 100004 | Highland axe(MCD) |
   | Netherite axe | CMD | 100005 | Whirlwind axe(MCD) |
   | Netherite axe | CMD | 100006 | Great hammer(MCD) |
-  | Netherite axe | CMD | 100006 | Stormlander(MCD)(EM) |
+  | Netherite axe | CMD | 100007 | Hammer of Gravity(MCD)(EM) |
+  | Netherite axe | CMD | 100008 | Stormlander(MCD)(EM) |
   | - | - | - | - |
   | Netherite Sword | CMD | 100000 | Daggers(MCD) |
   | Netherite Sword | CMD | 100001 | Fangs of frost(MCD) |
