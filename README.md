@@ -1,4 +1,4 @@
-# FSI_RP
+# FSI RP
 
 FSI survival server resource pack
 * Current version - v1.0.9 - 22/08/2021
@@ -39,7 +39,11 @@ FSI survival server resource pack
   </details>
   <details>
     <summary>24/08/2021</summary>
-    ║ + added hammer of gravity(MCD)()
+    ╚ + added hammer of gravity(MCD)(EM) - Netherite axe override
+  </details>
+  <details>
+    <summary>27/08/2021</summary>
+    ╚ + added Bonebow(MCD) - Bow override
   </details>
 </details>
 
@@ -71,6 +75,8 @@ FSI survival server resource pack
   | Shield | CMD | 100000 | Buckler shield(OF) |
   | Shield | CMD | 100001 | Green gauntlet of shielding(OF)(EM) |
   | Shield | CMD | 100002 | Red gauntlet of shielding(OF)(EM) |
+  | - | - | - | - |
+  | Bow | CMD | 100000 | Bonebow(MCD) |
 
 
   <details>
