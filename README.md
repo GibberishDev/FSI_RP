@@ -46,6 +46,10 @@ FSI survival server resource pack
     <summary>27/08/2021</summary>
     ╚ + added Bonebow(MCD) - Bow override
   </details>
+  <details>
+    <summary>17/09/2021</summary>
+    ╚ + added Pipe Wrench - Stick override
+  </details>
 </details>
 
   ## List of IDs:
@@ -76,6 +80,8 @@ FSI survival server resource pack
   | Shield | CMD | 100000 | Buckler shield(OF) |
   | Shield | CMD | 100001 | Green gauntlet of shielding(OF)(EM) |
   | Shield | CMD | 100002 | Red gauntlet of shielding(OF)(EM) |
+  | - | - | - | - |
+  | Stick | CMD | 100000 | Pipe Wrench |
   | - | - | - | - |
   | Bow | CMD | 100000 | Bonebow(MCD) |
 
