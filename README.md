@@ -50,6 +50,10 @@ FSI survival server resource pack
     <summary>17/09/2021</summary>
     ╚ + added Pipe Wrench - Stick override
   </details>
+  <details>
+    <summary>23/09/2021</summary>
+    ╚ + added Shroom knife - Stick override
+  </details>
 </details>
 
   ## List of IDs:
@@ -82,6 +86,7 @@ FSI survival server resource pack
   | Shield | CMD | 100002 | Red gauntlet of shielding(OF)(EM) |
   | - | - | - | - |
   | Stick | CMD | 100000 | Pipe Wrench |
+  | Stick | CMD | 100001 | Shroom Knife |
   | - | - | - | - |
   | Bow | CMD | 100000 | Bonebow(MCD) |
 
