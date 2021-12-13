@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "items/custom/prismarine_shard/axolotlhat/axolotlhat2",
-		"2": "items/custom/prismarine_shard/axolotlhat/axolotlhat1",
-		"3": "items/custom/prismarine_shard/axolotlhat/axolotlhat3",
-		"4": "items/custom/prismarine_shard/axolotlhat/axolotlhat4",
-		"particle": "items/custom/prismarine_shard/axolotlhat/axolotlhat1"
+		"1": "items/custom/carved_pumpkin/axolotlhat/axolotlhat2",
+		"2": "items/custom/carved_pumpkin/axolotlhat/axolotlhat1",
+		"3": "items/custom/carved_pumpkin/axolotlhat/axolotlhat3",
+		"4": "items/custom/carved_pumpkin/axolotlhat/axolotlhat4",
+		"particle": "items/custom/carved_pumpkin/axolotlhat/axolotlhat1"
 	},
 	"elements": [
 		{

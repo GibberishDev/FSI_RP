@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "items/custom/prismarine_shard/mohawlk",
-		"particle": "items/custom/prismarine_shard/mohawlk"
+		"0": "items/custom/carved_pumpkin/mohawlk",
+		"particle": "items/custom/carved_pumpkin/mohawlk"
 	},
 	"elements": [
 		{
