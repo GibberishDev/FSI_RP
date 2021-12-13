@@ -56,6 +56,7 @@ FSI survival server resource pack
   </details>
   <details>
     <summary>13/12/2021</summary>
+    ║ ~ updated to 1.18
     ╚ ~ changed all hats to have carved pumpkin as base item instead of prismarine shard
   </details>
 </details>
