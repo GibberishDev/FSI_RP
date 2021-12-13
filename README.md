@@ -54,6 +54,10 @@ FSI survival server resource pack
     <summary>23/09/2021</summary>
     ╚ + added Shroom knife - Stick override
   </details>
+  <details>
+    <summary>13/12/2021</summary>
+    ╚ ~ changed all hats to have carved pumpkin as base item instead of prismarine shard
+  </details>
 </details>
 
   ## List of IDs:
@@ -76,10 +80,10 @@ FSI survival server resource pack
   | Netherite Sword | CMD | 100001 | Fangs of frost(MCD) |
   | Netherite Sword | CMD | 100002 | Moon daggers(MCD) |
   | - | - | - | - |
-  | Prismarine shard | CMD | 100000 | Duck halo |
-  | Prismarine shard | CMD | 100001 | Pumpjack |
-  | Prismarine shard | CMD | 100002 | Mohawk |
-  | Prismarine shard | CMD | 100003 | Axolotl hat |
+  | Carved pumpkin | CMD | 100000 | Duck halo |
+  | Carved pumpkin | CMD | 100001 | Pumpjack |
+  | Carved pumpkin | CMD | 100002 | Mohawk |
+  | Carved pumpkin | CMD | 100003 | Axolotl hat |
   | - | - | - | - |
   | Shield | CMD | 100000 | Buckler shield(OF) |
   | Shield | CMD | 100001 | Green gauntlet of shielding(OF)(EM) |
